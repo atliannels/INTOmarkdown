@@ -5,7 +5,7 @@ Eg var bara einn i thessu verkefni.
 ## 1. Linux uppsetning
 
 Eg setti upp VirtualBox VM og Ubuntu 13.04. Thetta gekk allt vel fyrir sig nema eg thurfti ad taka hakid af Enable USB i Settings i syndarvelinni. 
- ![Alt Text] https://github.com/atliannels/INTOmarkdown/tolva.png
+ ![Alt Text] https://github.com/atliannels/INTOmarkdown/blob/master/tolva.png
 
 ## 2. Uppsetning á Vim & Git
 
